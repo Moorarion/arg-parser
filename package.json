@@ -1,0 +1,25 @@
+{
+  "name": "arg-parser",
+  "version": "0.1.0",
+  "description": "parse argument list (process.argv) in multiple ways",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Moorarion/arg-parser.git"
+  },
+  "keywords": [
+    "argument",
+    "parser",
+    "argv",
+    "processor"
+  ],
+  "author": "Scorpiour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moorarion/arg-parser/issues"
+  },
+  "homepage": "https://github.com/Moorarion/arg-parser#readme"
+}
